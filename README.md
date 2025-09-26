@@ -2,7 +2,7 @@
     <img src="https://camo.githubusercontent.com/0e9388b3bbe4234f9fe01f87e8cf0be5596499e81e4754d0f3ddfb36a366bfa2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966" height="200"/>
   </p>
   <hr>
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ishan</h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm ishan</h1>
   <h3 align="center">Software Engineer | Developer</h3>
   <p align="center">
   <a href="https://www.linkedin.com/in/ishan-jaiswal-09684b320/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin logo" height="30" width="40" /></a>
@@ -10,8 +10,8 @@
   
   <p align="center">
     <em>
-      This is ME, ishan, a developer. <br>
-      A Learner and Open Source enthusiast.
+      This is ME, ishan, a learner. <br>
+      A Developer and Open Source enthusiast.
     </em> 
     <br>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
@@ -24,11 +24,10 @@
   
   ✔ I'm currently working on **personal projects**<br>
   ✔ I'm currently learning **HTML and related technologies**<br>
-  ✔ A HTML developer, with 5 public repositories.**<br>
   ✔ I'm looking to collaborate on **Open Source projects**<br>
   ✔ I'm looking for help with **anything related to what I do**<br>
   ✔ Ask me about **HTML**<br>
-  ✔ Fun fact: **Your laptop is more powerful than the computers that landed humans on the Moon\*\*<br><br><br><br>
+  ✔ Fun fact: **Your laptop is more powerful than the computers that landed humans on the Moon**\*\*<br><br><br><br>
   
   ### Tools:
   
